@@ -52,7 +52,11 @@ if (eta < 18){
     
 }
 // Sconto over 65 40%
-
+else if( eta > 65){
+    prezzototale = prezzototale * 0.6;
+    console.log(prezzototale.toFixed(2));
+    
+}
 
 /* Output prezzo finale con massimo due decimali*/
 
