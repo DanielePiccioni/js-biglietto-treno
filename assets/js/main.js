@@ -41,6 +41,7 @@ const eta = Number(prompt("Quanti anni hai?"));
 // Variabile del prezzo biglietto
 const prezzoalkm = 0.21;
 // Variabile km * prezzo al km
+let prezzototale = km * prezzoalkm;
 
 
 
