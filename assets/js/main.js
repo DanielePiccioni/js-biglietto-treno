@@ -31,14 +31,15 @@ TOOLS:
 
 /*Dati dell'utente*/
 // Variabile km che vuole percorrere
-const km = Number(prompt("Quanti km vuoi percorrere?"))
+const km = Number(prompt("Quanti km vuoi percorrere?"));
 // Variabile età del passeggero
-const eta = Number(prompt("Quanti anni hai?"))
+const eta = Number(prompt("Quanti anni hai?"));
 
 
 
 /* Calcolare prezzo del prezzo*/
 // Variabile del prezzo biglietto
+const prezzoalkm = 0.21;
 // Variabile km * prezzo al km
 
 
