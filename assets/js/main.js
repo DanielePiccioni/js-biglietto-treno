@@ -27,3 +27,29 @@ TOOLS:
 - alert / log
 
 */
+
+
+/*Dati dell'utente*/
+// Variabile km che vuole percorrere
+
+// Variabile età del passeggero
+
+
+
+
+/* Calcolare prezzo del prezzo*/
+// Variabile del prezzo biglietto
+// Variabile km * prezzo al km
+
+
+
+/* Sconti*/
+// Sconto minorenni 20%
+
+// Sconto over 65 40%
+
+
+/* Output prezzo finale con massimo due decimali*/
+
+
+
