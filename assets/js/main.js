@@ -45,20 +45,18 @@ let prezzototale = km * prezzoalkm;
 
 
 /* Sconti*/
-// Sconto minorenni 20%
 if (eta < 18){
+    // Sconto minorenni 20%
     prezzototale = prezzototale * 0.8;
     console.log("€" + prezzototale.toFixed(2));
     
-}
-// Sconto over 65 40%
-else if( eta > 65){
+} else if( eta > 65){
+    // Sconto over 65 40%
     prezzototale = prezzototale * 0.6;
     console.log("€" + prezzototale.toFixed(2));
     
-}
-// Nessuno sconto range 18 - 65
-else {
+} else {
+    // Nessuno sconto range 18 - 65
     console.log("€" + prezzototale.toFixed(2))
 }
 /* Output prezzo finale con massimo due decimali*/
