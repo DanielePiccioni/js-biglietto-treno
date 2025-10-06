@@ -43,7 +43,10 @@ const prezzoalkm = 0.21;
 // Variabile km * prezzo al km
 let prezzototale = km * prezzoalkm;
 
-
+console.log(km);
+console.log(eta);
+console.log(prezzoalkm);
+console.log(prezzototale);
 
 /* Sconti*/
 // Sconto minorenni 20%
