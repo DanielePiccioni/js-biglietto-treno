@@ -31,7 +31,7 @@ TOOLS:
 
 /*Dati dell'utente*/
 // Variabile km che vuole percorrere
-
+const km = Number(prompt("Quanti km vuoi percorrere?"))
 // Variabile età del passeggero
 
 
