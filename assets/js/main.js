@@ -19,3 +19,11 @@ PRO TIP:
 prima di iniziare a scrivere codice, inizia con l'elencare gli strumenti da usare per svolgere la consegna e scoponi  il problema di sotto-task da svolgere. Questo ti aiuta a documentare il tuo flusso di lavoro ed il codice evitandoti di restare li a fissare una pagina vuota.
 */
 
+/* 
+TOOLS:
+- Variabili let / const (prompt)
+- operaatore di relazione ( < > =)
+-if / else
+- alert / log
+
+*/
