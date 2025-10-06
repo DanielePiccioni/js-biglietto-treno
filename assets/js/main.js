@@ -57,7 +57,10 @@ else if( eta > 65){
     console.log("€" + prezzototale.toFixed(2));
     
 }
-
+// Nessuno sconto range 18 - 65
+else {
+    console.log("€" + prezzototale.toFixed(2))
+}
 /* Output prezzo finale con massimo due decimali*/
 
 
